@@ -1,0 +1,14 @@
+{
+  "tests/test_distanceProfile.py::TestClass::()": true,
+  "tests/test_distanceProfile.py::TestClass::()::test_massDistanceProfile_self": true,
+  "tests/test_distanceProfile.py::TestClass::()::test_naiveDistanceProfile_self": true,
+  "tests/test_matrixProfile.py::TestClass::()": true,
+  "tests/test_matrixProfile.py::TestClass::()::test_stamp_dual_mp": true,
+  "tests/test_matrixProfile.py::TestClass::()::test_stamp_dual_mpi": true,
+  "tests/test_matrixProfile.py::TestClass::()::test_stamp_self_mp": true,
+  "tests/test_matrixProfile.py::TestClass::()::test_stamp_self_mpi": true,
+  "tests/test_matrixProfile.py::TestClass::()::test_stampi_mp": true,
+  "tests/test_matrixProfile.py::TestClass::()::test_stampi_mpi": true,
+  "tests/test_order.py::TestClass::()": true,
+  "tests/test_utils.py::TestClass::()": true
+}
